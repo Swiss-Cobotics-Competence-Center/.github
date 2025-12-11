@@ -1,5 +1,3 @@
-# .github
-
 # Swiss Cobotics Competence Center (S3C)
 
 The **Swiss Cobotics Competence Center (S3C)** is a national hub that supports Swiss industry in adopting **collaborative robotics**.  
